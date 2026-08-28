@@ -1,3 +1,10 @@
 mmmmmmmm
+<<<<<<< HEAD
 hello nada
 login fix
+=======
+hi nada
+login fix
+discount feature
+1
+>>>>>>> 7cd96866d4fa739db1f41f95df8177a80d470712
